@@ -1,2 +1,2 @@
 # ThesisExperiments
-Brain Tumor Cancer Experiments using State of the Art CNN models
+Brain Tumour Cancer Detection using state-of-the-art CNN models uses transfer learning.
